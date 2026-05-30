@@ -1,8 +1,36 @@
 
 
-joshu
+JOSHUA A. TAEZA 
+ELEC 1
+API CALL - POSTMAN
+SHORT DESCRIPTION
+Laravel Student Management API Project
 
+This project is a RESTful API application developed using Laravel and tested through Postman. It provides complete CRUD (Create, Read, Update, Delete) functionality for managing student records through API endpoints.
 
+Project Setup
+
+1. Create a new Laravel project using the command:
+   
+   "laravel new projectname"
+
+2. Generate the necessary Model, Migration, and Controller files using Laravel Artisan commands.
+
+3. Configure the database connection in the ".env" file and execute the migrations to create the required database tables.
+
+4. Define the API routes in the "api.php" file and implement the controller methods to handle CRUD operations.
+
+5. Open Postman and create a workspace and collection for testing the API endpoints.
+
+API Endpoints
+
+- GET – Retrieves student records and returns the data in JSON format.
+- POST – Creates a new student record with details such as name, course, and email.
+- PUT – Updates and replaces an existing student record based on the specified student ID.
+- PATCH – Modifies selected fields of an existing student record without replacing the entire record.
+- DELETE – Removes a student record by ID or deletes multiple records as required.
+
+This project demonstrates the implementation of RESTful API development in Laravel, including database integration, route management, controller logic, and API testing using Postman.
 
 
 
