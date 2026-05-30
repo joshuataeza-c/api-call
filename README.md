@@ -1,9 +1,12 @@
 
 
 JOSHUA A. TAEZA 
+
 ELEC 1
+
 API CALL - POSTMAN
-SHORT DESCRIPTION
+
+DESCRIPTION
 Laravel Student Management API Project
 
 This project is a RESTful API application developed using Laravel and tested through Postman. It provides complete CRUD (Create, Read, Update, Delete) functionality for managing student records through API endpoints.
